@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Micael
+ * @author daniel
  */
 public class PruebaPalabras {
 
